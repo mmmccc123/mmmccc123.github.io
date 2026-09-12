@@ -7,9 +7,9 @@ title                    : "Minchan Kim"
 title_separator          : "-"
 name                     : &name "Minchan Kim"
 description              : &description "Minchan Kim's Academic Portfolio"
-url                      : "https://<your-github-username>.github.io" # Replace <your-github-username> with your actual GitHub username
+url                      : "https://mmmccc123.github.io"
 baseurl                  : ""
-repository               : "<your-github-username>/<your-github-username>.github.io" # Replace with your repo path
+repository               : "mmmccc123/mmmccc123.github.io"
 
 # Site Author
 author:
