@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,36 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="/files/Minchan_Kim_CV.pdf" class="btn btn--info">Download CV (PDF)</a>
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **University of Seoul** (Mar 2024 – Mar 2030)
+  * B.S. in Mechanical Information Engineering | Double major: Computer Science
+  * GPA: 4.25 / 4.50 (Major GPA: 4.27 / 4.50)
+* **North Carolina State University** (Jan 2025 – Present)
+  * Visiting Student in Mechanical and Aerospace Engineering
+  * GPA: 3.90 / 4.00
 
-Work experience
+Research & Technical Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Yoon Lab, NCSU** | Undergraduate Researcher (May 2026 – Present)
+  * Embodied AI and 3D Semantic Perception for Robotics.
+  * Built a ROS 2-based navigation system for TurtleBot 4, integrating Vision-Language-Action (VLA) models onto NVIDIA Jetson Orin and Orin Nano platforms.
+  * Developed a 3D semantic Gaussian Splatting pipeline using scene-graph-based filtering for semantic scene representation.
+  * Investigated the integration of 3D scene representations and semantic information for robotic perception.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **IDEA Lab, UOS** | Undergraduate Researcher (Aug 2025 – Dec 2025)
+  * Studied machine learning and deep learning fundamentals.
+  * Reviewed literature on technology trends in physics-informed artificial intelligence (PINN).
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **SHA, UOS** | Club Member (June 2024 – Dec 2025)
+  * Performed static and dynamic binary analysis using Ghidra, IDA, and Pwntools to inspect compiled binaries and trace control-flow paths.
+  * Analyzed low-level memory behavior and system defenses, writing targeted vulnerability scripts.
+  * Competed in Capture-the-Flag (CTF) contests, reverse-engineering stripped binaries under time constraints.
 
-Publications
+Honors & Awards
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Korea-U.S. Advanced Technology Youth Exchange Support Program Scholarship (2026)
+* Engineering Mathematics Contest Honorable Mention (2025)
+* University of Seoul Academic Scholarship (2024-2, 2025-1, 2025-2)
